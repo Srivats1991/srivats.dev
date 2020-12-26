@@ -1,6 +1,6 @@
 # About Me
 
-I'm a Software Engineer working for a network security company in Texas. I'm currently interested in making a career transition to product management. Apart from work, I like to travel, read and ofcourse... Netfix and chill. 
+I'm a Software Engineer working for a network security company in Texas. I'm currently interested in making a career transition to product management. Apart from work, I like to travel, read and ofcourse... Netfix and chill. I ocassionally write on Medium space on random things. Check out my blog space on Medium here.
 
 # Books
 
