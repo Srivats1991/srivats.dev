@@ -9,7 +9,7 @@ Here's a small list of books that have helped me think differently, influenced m
 ## Non-Fiction
 
 <dl>
-<iframe type="text/html" width="64" height="48" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B00ICN066A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_JV75Fb1SKPJ5M" ></iframe>
+<iframe type="text/html" width="64" height="48" frameborder="0" allowfullscreen style="max-width:50%" src="https://read.amazon.com/kp/card?asin=B00ICN066A&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_JV75Fb1SKPJ5M" ></iframe>
 </dl>
 
 ```markdown
