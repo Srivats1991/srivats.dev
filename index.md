@@ -20,3 +20,6 @@ Here's a small list of books that have helped me think differently, influenced m
 2. Crucial Conversations
 3. Lean Startup
 ```
+# Social
+
+Find me on Linkedin
