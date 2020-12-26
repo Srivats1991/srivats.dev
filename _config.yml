@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Welcome to Srivats Bharadwaj's personal website!
+title: Srivats Bharadwaj
+logo: [/assets/images/sri.jpg]
 github:
   is_project_page: false
