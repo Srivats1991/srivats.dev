@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/Srivats1991/srivats.dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website. I'm a Software Engineer working for a network security company in Texas. I'm currently interested in making a career transition to product management. Apart from work, I like to travel, read and of course... Netfix and chill. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Books
 
-### Markdown
+Here's a small list of books that have helped me think differently, influenced my life in a positive way or helped me get better understanding of concepts that I'm interested.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Non-Fiction
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Sapiens By Yuval Noah Hararri
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Srivats1991/srivats.dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
