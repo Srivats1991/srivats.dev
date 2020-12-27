@@ -21,4 +21,4 @@ Here's a small list of books that have helped me think differently, influenced m
 
 # Social
 
-Find me on **[Linkedin]**(https://www.linkedin.com/in/srivatsbharadwaj/)
+Find me on **![Linkedin](https://www.linkedin.com/in/srivatsbharadwaj/)**
