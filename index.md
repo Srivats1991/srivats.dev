@@ -1,6 +1,6 @@
 # Welcome!
 
-I would like to describe my professional self as a motivated problem-solver. I'm a product nerd curious about learning customer problems and products those that transform our lives for the better. My background includes over 6 years in Cloud Network Security, FinTech and Online Learning K-12 sectors. I have a passion for delivering unforgettable products that focus on value-add features so that customers buy more and refer their friends. My desire is to join a company where my passion to delight customers by creating high-quality features can help it grow while giving me the opportunity to learn new skills. 
+I would like to describe my professional self as a motivated problem-solver. I'm a product nerd curious about learning customer problems and products those that transform our lives for the better. My background includes over 6 years in Cloud Network Security, FinTech and Online Learning K-12 sectors. I have a passion for delivering unforgettable products that focus on value-add features. My desire is to work for companies where my passion to delight customers by creating high-quality features can help it grow while giving me the opportunity to learn new skills. 
 
 Apart from work, I like to travel, read and ofcourse binge-watch my favorite Netfix shows. I seldom **[write](https://medium.com/@Srivats1212)** on Medium too.
 
