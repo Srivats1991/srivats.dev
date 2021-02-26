@@ -12,7 +12,7 @@ Here's a list of books that influenced my life in a positive way, helped me gain
 
 # Scribbled my thoughts
 
-**[WhatsApp's New Privacy Policy is Scary](whatsapp.txt)**
+**[WhatsApp's New Privacy Policy is Scary](whatsapp.md)**
 
 # Social
 
