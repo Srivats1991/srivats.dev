@@ -1,3 +1,5 @@
+![Whatsapp](https://thumbs.dreamstime.com/t/whatsapp-icon-mobile-application-vector-illustration-eps-file-113709099.jpg) 
+
 # WhatsApp’s New Privacy Policy Changes Seem SCARY! 
 
 This most popular messaging app received instant backlash from its users because WhatsApp claimed it would limit the available features for the users who won’t accept the policy changes. According to the platform’s new data sharing policy, the app collects plenty of user data and may share it on Facebook. 
@@ -27,9 +29,11 @@ Listed below are the key reasons why Signal has become my absolute favorite mess
 
 Status update and designing a wide variety of emoticons are the only necessary improvements. However, the management team of Signal is already working on some of them. 
 
-Now the question is, which app is better? Signal or Telegram? Mentioned below are the main differences between these two platforms 
-
 ### Signal vs Telegram: the brighter future? 
+
+![Something new](https://fossbytes.com/wp-content/uploads/2021/01/Signal-vs-Telegram-best-WhatsApp-alternative-1-1024x579.jpg)
+
+Now the question is, which app is better? Signal or Telegram? Mentioned below are the main differences between these two platforms 
 
 <ul>
 <li>A non-profit organization owns Signal, whereas a for-profit organization owns Telegram. However, both are free to use. </li>
