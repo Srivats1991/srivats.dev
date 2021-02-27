@@ -16,9 +16,10 @@ Are you freaking out about WhatsApp’s privacy issues? Then switch to Signal as
 Listed below are the key reasons why Signal has become my absolute favorite messaging platform
 
 •	Secure and encrypted: Signal’s excellent privacy policy makes it the primary beneficiary of the Facebook-owned messaging app exodus. Its “disappearing messages” feature makes it more privacy-focused, and the custom notification feature makes sure that your messages are not visible on your lock screen. Furthermore, session verification verifies that a third party doesn’t intercept your sensitive conversations (messages or calls). 
+
 •	Android, iOS, and desktop availability: Apart from its excellent privacy protocol, it offers all communication features (message, voice, and videos) on iOS, Android, and desktop if you have the app installed on your phone. 
 
-•	Innovative features: 
+Innovative features: 
 1.	Use Signal with the help of “proxy support” if the app is blocked in your country. 
 2.	The unique wallpapers make the chat more appealing.
 3.	Group link and QR code make joining a group simpler. 
