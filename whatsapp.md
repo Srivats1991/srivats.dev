@@ -15,13 +15,14 @@ Are you freaking out about WhatsApp’s privacy issues? Then switch to Signal as
 
 Listed below are the key reasons why Signal has become my absolute favorite messaging platform
 
-•	Secure and encrypted: Signal’s excellent privacy policy makes it the primary beneficiary of the Facebook-owned messaging app exodus. Its “disappearing messages” feature makes it more privacy-focused, and the custom notification feature makes sure that your messages are not visible on your lock screen. Furthermore, session verification verifies that a third party doesn’t intercept your sensitive conversations (messages or calls). 
+-	Secure and encrypted: Signal’s excellent privacy policy makes it the primary beneficiary of the Facebook-owned messaging app exodus. Its “disappearing messages” feature makes it more privacy-focused, and the custom notification feature makes sure that your messages are not visible on your lock screen. Furthermore, session verification verifies that a third party doesn’t intercept your sensitive conversations (messages or calls). 
 
-•	Android, iOS, and desktop availability: Apart from its excellent privacy protocol, it offers all communication features (message, voice, and videos) on iOS, Android, and desktop if you have the app installed on your phone. 
+-	Android, iOS, and desktop availability: Apart from its excellent privacy protocol, it offers all communication features (message, voice, and videos) on iOS, Android, and desktop if you have the app installed on your phone. 
 
-Innovative features: 
+
+- Innovative features: 
 1.	Use Signal with the help of “proxy support” if the app is blocked in your country. 
-2.	The unique wallpapers make the chat more appealing.
+2.	Session keys generated for every 300 messages exchanged.
 3.	Group link and QR code make joining a group simpler. 
 
 Status update and designing a wide variety of emoticons are the only necessary improvements. However, the management team of Signal is already working on some of them. 
@@ -30,10 +31,12 @@ Now the question is, which app is better? Signal or Telegram? Mentioned below ar
 
 ### Signal vs Telegram: the brighter future? 
 
-•	A non-profit organization owns Signal, whereas a for-profit organization owns Telegram. However, both are free to use.  
-•	Signal has self-destructed messaging for all chats, while in Telegram, only secret conversations are self-destructed. 
-•	Signal is a bit more concerned about privacy than Telegram. Telegram has an end-to-end encryption option, but Signal encrypts every message by default. 
-•	Signal is on 2nd rank while Telegram is ranked 7th in the most used messaging app rankings. 
+<ul>
+<li>A non-profit organization owns Signal, whereas a for-profit organization owns Telegram. However, both are free to use. </li>
+<li>Signal has self-destructed messaging for all chats, while in Telegram, only secret conversations are self-destructed. </li>
+<li>Signal is a bit more concerned about privacy than Telegram as Signal enforces privacy on it's users whereas Telegram gives them the choice to opt out for secret chats. </li>
+<li>Signal is on 2nd rank while Telegram is ranked 7th in the most used messaging app rankings. </li>
+</ul>
 
 ### You’re Caught Up!
 
