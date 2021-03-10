@@ -1,6 +1,6 @@
 # Welcome!
 
-I would like to describe my professional self as a motivated problem-solver. I'm a product nerd who is curious to learn from customer problems and believing in creating products that transform our lives for the better. My background includes over 6 years in Cloud Network Security, FinTech and Online Learning sectors. I have a passion to delight customers by creating  unforgettable products. Other than work, I like to travel and stare at the stock market go down or up to the moon...
+I would like to describe my professional self as a motivated problem-solver. I'm a product nerd who is curious to learn from customer problems and believing in creating products that transform our lives for the better. My background includes over 6 years in Cloud Network Security, FinTech and Online Learning sectors. I have a passion to delight customers by creating  unforgettable products. Other than work, I spend time playing violin, travelling (pre-rona obviously) and stare at my cryptos go to the moon...
 
 # Books that I some-what-read
 
