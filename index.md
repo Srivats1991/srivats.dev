@@ -15,6 +15,8 @@ Here's a list of books that influenced my life in a positive way, helped me gain
 
 - **[WhatsApp's New Privacy Policy is Scary](whatsapp.md)**
 - **[Google's FLoC Could Make It Lose its #1 Search Engine Title](floc.md)**
+- **[Making a transition to PM roles](engtopm.md)**
+- **[How I started taking Privacy more seriously](privacy.md)**
 
 # Social
 
