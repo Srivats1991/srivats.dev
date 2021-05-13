@@ -31,7 +31,7 @@ Status update and designing a wide variety of emoticons are the only necessary i
 
 ### Signal vs Telegram: the brighter future? 
 
-![Something new](https://fossbytes.com/wp-content/uploads/2021/01/Signal-vs-Telegram-best-WhatsApp-alternative-1-1024x579.jpg)
+![Something new](./signal.jpg)
 
 Now the question is, which app is better? Signal or Telegram? Mentioned below are the main differences between these two platforms 
 
@@ -45,4 +45,3 @@ Now the question is, which app is better? Signal or Telegram? Mentioned below ar
 ### You’re Caught Up!
 
 These were all the reasons to ditch the other apps and switch to Signal. Most importantly, this platform proves to be the better choice for people who value privacy. 
-
