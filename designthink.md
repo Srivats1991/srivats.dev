@@ -1,8 +1,7 @@
 # Design Thinking Approach could transform organizations - Don't just restrict it to PMs and Designers
 
 Companies are knowingly or unknowingly want one thing - Products that people love. Every product in the market solves (or atleast tries!) customer problems. 
-Design thinking in it's simplest terms in a human-centric approach that believes all problems, simple or complicated, ultimately are human. At it's core Design Thinking tries to understand the needs of customers, foster innovation and ultimately result in awesome products that makes people happy.
-It shifts the focus towards understanding customer needs rather than starting off building products right at the beginning. 
+Design thinking in it's simplest terms is a human-centric approach. It believes all problems, simple or complicated are ultimately human. At it's core, Design Thinking tries to understand the needs of customers, foster innovation and ultimately result in awesome products that makes people happy.
 
 ## The 5 stage approach
 
