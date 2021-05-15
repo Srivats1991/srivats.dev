@@ -1,4 +1,4 @@
-# Design Thinking Approach could transform organizations - Don't just restrict it PMs and Designers
+# Design Thinking Approach could transform organizations - Don't just restrict it to PMs and Designers
 
 Companies are knowingly or unknowingly want one thing - Products that people love. Every product in the market solves (or atleast tries!) customer problems. 
 Design thinking in it's simplest terms in a human-centric approach that believes all problems, simple or complicated, ultimately are human. At it's core Design Thinking tries to understand the needs of customers, foster innovation and ultimately result in awesome products that makes people happy.
@@ -32,4 +32,20 @@ Problem statements and user personas generated from Define stage needs to be add
 
 ### Prototype
 
-Thinkers will now have to design the solutions for problems.
+Prototypes are simple scaled-down versions of products or features of a product. 
+
+Thinkers would spend time to build prototypes of their solutions and the best solution would be constructed through active involvement of all the team members. The final prototype gives a testable product for users. 
+
+### Test
+
+Testing, testing, testing and .....testing!!
+
+Congrats, your product (or a reduced version of it) is ready to be tested. This step crucial because we would have to go back to customers for testing and their feedback is important to know if your product solves problems, fix flaws when needed and improvise them.
+
+## Be ready for change - Design Thinking is an iterative approach
+
+Often times, those user personas might not look personal afterall, for members in in the team. Even really good solutions might need some refining to build workable prototypes.  Thus, the 5 stages is not straighforward. At times, multiple teams (or people in teams) require to understand customer problems, think creative solutions, build working prototypes and testing them with real users parallely. This might look clumsy or overwhelming and that is why we need to accept and address changes as they come. To our dismay, understanding problems and building solutions does not happen all at once. 
+
+## So why restrict it to just PMs and Designers?
+
+
