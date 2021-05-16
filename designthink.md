@@ -1,4 +1,4 @@
-# Why Design Thinking should not just be for designers
+# Design Thinking approach and why it is not just for designers
 
 Companies are knowingly or unknowingly want one thing - Products that people love. Every product in the market solves (or atleast tries!) customer problems. 
 Design thinking in it's simplest terms is a human-centric approach. It believes all problems, simple or complicated are ultimately human. At it's core, Design Thinking tries to understand the needs of customers, foster innovation and ultimately result in awesome products that makes people happy.
