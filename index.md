@@ -11,12 +11,18 @@ Here's a list of books that influenced my life in a positive way, helped me gain
  - **[We are the Weather](https://read.amazon.com/kp/card?asin=B07MYXDK94&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_kb85FbB89MZXK&hideBuy=true&hideShare=true)**
  - **[The Lean Product Playbook](https://read.amazon.com/kp/card?asin=B00SZ638C8&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_w.75Fb383YFPS&hideBuy=true&hideShare=true)**
 
-# Scribbled my thoughts
+# Few thoughts
 
+## Product Management
 - **[Making a transition to PM roles](engtopm.md)**
+- **[Design Thinking approach and why it's not just for designers](designthink.d)**
+
+## Tech 
 - **[WhatsApp's New Privacy Policy is Scary](whatsapp.md)**
 - **[Google's FLoC Could Make It Lose its #1 Search Engine Title](floc.md)**
 - **[How I started taking Privacy more seriously](privacy.md)**
+
+## General
 - **[Lessons from Jim Rohn to lead a better life in 2019](https://medium.com/@Srivats1212/lessons-from-jim-rohn-to-lead-a-better-life-in-2019-4503ab7fbd3e)**
 - **[This is my third post on medium and here’s what I have learnt so far](https://medium.com/@Srivats1212/this-is-my-third-post-on-medium-and-heres-what-i-have-learnt-so-far-253fbddd5a)**
 
