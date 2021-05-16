@@ -53,7 +53,9 @@ Design Thinking relies heavily on an innovative mindset and creative thinking. D
 If Designers rely on their intuition to understand customer thoughts, engineers rely on analytical approach to evaluate prototypes. 
 While designers can explain "why" customers do what they do, engineers are better off explaining "how" to do it. 
 Testers can evaluate limits and constraints on prototypes. 
-Marketing folks can easily pitch in their thoughts on important features to be shipped based on competition in the field. 
+Marketing folks can easily pitch in their thoughts on valuable features for the prototypes.
+
+Inter-disciplinary teams involved in design thinking could also build trust among each other. When multi discipline teams align to understand the needs of customer far more quickly than working in silos.
 
 
 ## Final Word
