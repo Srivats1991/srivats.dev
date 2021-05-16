@@ -45,13 +45,19 @@ Congrats, your product (or a reduced version of it) is ready to be tested. This 
 
 Often times, your user personas might not look personal for other members in the team and few really good solutions might need refining to build workable prototypes. What we need to remember is that the 5 stage approach is not straighforward. At times, it's required to understand empathize, think creative solutions, build working prototypes and testing them with real users parallely. This might look clumsy or overwhelming and that is why we need to accept and address changes as they come. To our dismay, understanding problems and building solutions is messy during the research stage and get more focused when the prototypes are designed and tested. 
 
-## So why restrict it to just PMs and Designers?
+## So why just restrict it to PMs and Designers?
 
 Design Thinking is all about being in touch with users and working on valuable feedbacks from them. Product Managers engage with customers to understand their needs and Designers spend time creating attractive prototypes that can be tested. However, many companies ignore the impact that Design approach would have among multi disciplinary teams. 
 
 Design Thinking relies heavily on an innovative mindset and creative thinking. During the Ideation and Protoype stages, involving members from different backgrounds can certainly make an impact on the quality of the solution. 
 If Designers rely on their intuition to understand customer thoughts, engineers rely on analytical approach to evaluate prototypes. 
 While designers can explain "why" customers do what they do, engineers are better off explaining "how" to do it. 
+Testers can evaluate limits and constraints on prototypes. 
+Marketing folks can easily pitch in their thoughts on important features to be shipped based on competition in the field. 
 
-This mindset could come into use while analyzing the solution space in Ideation stage. If desi
+
+## Final Word
+
+For too long, there have been efforts by the leaders of tech companies to transform the culture by enabling cross collaboration of teams. Inolving multi-disciplinary teams during design thinking can not only improve the quality of the product, but in the longer run has the ability to grow a culture of "customer obsession" across the organization. This could offset to help the company in unimaginable ways if implemented properly. 
+
 
