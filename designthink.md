@@ -1,4 +1,4 @@
-# Design Thinking Approach could transform organizations - Don't just restrict it to PMs and Designers
+# Why Design Thinking should not just be for designers
 
 Companies are knowingly or unknowingly want one thing - Products that people love. Every product in the market solves (or atleast tries!) customer problems. 
 Design thinking in it's simplest terms is a human-centric approach. It believes all problems, simple or complicated are ultimately human. At it's core, Design Thinking tries to understand the needs of customers, foster innovation and ultimately result in awesome products that makes people happy.
@@ -43,8 +43,15 @@ Congrats, your product (or a reduced version of it) is ready to be tested. This 
 
 ## Be ready for change - Design Thinking is an iterative approach
 
-Often times, those user personas might not look personal afterall, for members in in the team. Even really good solutions might need some refining to build workable prototypes.  Thus, the 5 stages is not straighforward. At times, multiple teams (or people in teams) require to understand customer problems, think creative solutions, build working prototypes and testing them with real users parallely. This might look clumsy or overwhelming and that is why we need to accept and address changes as they come. To our dismay, understanding problems and building solutions does not happen all at once. 
+Often times, your user personas might not look personal for other members in the team and few really good solutions might need refining to build workable prototypes. What we need to remember is that the 5 stage approach is not straighforward. At times, it's required to understand empathize, think creative solutions, build working prototypes and testing them with real users parallely. This might look clumsy or overwhelming and that is why we need to accept and address changes as they come. To our dismay, understanding problems and building solutions is messy during the research stage and get more focused when the prototypes are designed and tested. 
 
 ## So why restrict it to just PMs and Designers?
 
+Design Thinking is all about being in touch with users and working on valuable feedbacks from them. Product Managers engage with customers to understand their needs and Designers spend time creating attractive prototypes that can be tested. However, many companies ignore the impact that Design approach would have among multi disciplinary teams. 
+
+Design Thinking relies heavily on an innovative mindset and creative thinking. During the Ideation and Protoype stages, involving members from different backgrounds can certainly make an impact on the quality of the solution. 
+If Designers rely on their intuition to understand customer thoughts, engineers rely on analytical approach to evaluate prototypes. 
+While designers can explain "why" customers do what they do, engineers are better off explaining "how" to do it. 
+
+This mindset could come into use while analyzing the solution space in Ideation stage. If desi
 
