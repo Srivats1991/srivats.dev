@@ -15,7 +15,7 @@ Here's a list of books that influenced my life in a positive way, helped me gain
 
 ## Product Management
 - **[Making a transition to PM roles](engtopm.md)**
-- **[Design Thinking approach and why it's not just for designers](designthink.d)**
+- **[Design Thinking approach and why it's not just for designers](designthink.md)**
 
 ## Tech 
 - **[WhatsApp's New Privacy Policy is Scary](whatsapp.md)**
